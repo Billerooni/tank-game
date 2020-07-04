@@ -1,2 +1,2 @@
 # tank-game
-a tank game
+a multiplayer tank game
